@@ -4,6 +4,4 @@
 <h4>Client side, Config File Preview</h4>
 <img src="https://beep.zesk.studio/img/1657022443.png">
 <br>
-<h4>Worlds Config File Preview</h4>
-<img src="https://beep.zesk.studio/img/1657022443.png">
-<br>
+
